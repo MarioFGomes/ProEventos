@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 using ProEventos.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
